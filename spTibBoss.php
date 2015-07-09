@@ -1,5 +1,5 @@
 <?php
-namespace spTibBosses;	    
+namespace tibiaerig;	    
 
 //usage: $table = spTibExperience::getExperienceTable(array('Antica', 'Pacera'));
 //if any element in $table has less than 300 entries then there was a pretty serious failure (since it automatically retries)
