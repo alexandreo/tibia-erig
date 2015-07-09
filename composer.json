@@ -1,0 +1,7 @@
+{
+    "name": "alexandre/tibia-erig",
+    "description": "By Old Erig;net",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
