@@ -1,5 +1,5 @@
 <?php
-namespace tibiaerig;
+namespace TibiaErig; 
 	
 class Whoisonline {
 
