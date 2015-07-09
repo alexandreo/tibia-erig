@@ -4,8 +4,8 @@ namespace TibiaErig;
 class spWhoisonline {
 
     static function getWhoisonline($worlds) {
+        $onlines =  array();
     	foreach ($worlds as $world) {
-            $onlines =  array();
             $ch = curl_init();
             $timeout = 0;
             curl_setopt($ch, CURLOPT_URL, 'http://www.tibia.com/community/?subtopic=worlds&world='.$world);
