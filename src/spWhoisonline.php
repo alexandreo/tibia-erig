@@ -1,7 +1,7 @@
 <?php
 namespace TibiaErig; 
 	
-class Whoisonline {
+class spWhoisonline {
 
     static function getWhoisonline($worlds) {
     	foreach ($worlds as $world) {
