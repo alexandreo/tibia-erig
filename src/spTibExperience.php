@@ -1,5 +1,5 @@
 <?php
-namespace spTibExperience;
+namespace TibiaErig;
 	
 class spTibExperience {
     const PAGES = 11;

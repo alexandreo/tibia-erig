@@ -1,5 +1,5 @@
 <?php
-namespace spTibCharacter;	
+namespace TibiaErig;	
 	
 class spTibCharacter {
     const ATTEMPTS = 5;
